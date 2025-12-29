@@ -1,0 +1,7 @@
+{
+  "name": "Linguist AI: Real-time Language Practice",
+  "description": "An immersive language learning application featuring a real-time conversational AI partner powered by Gemini Live API. Practice speaking, get instant transcriptions, and master new languages through natural voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
